@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.cart{
+    display: flex;
+    
+    justify-content: space-between;
+}
+.cart1{
+    margin-left: 15px;
+}
+.cart3{
+  margin-right: 15px;
+}
+
+
